@@ -1,0 +1,12 @@
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\bin\Debug\net7.0\Nsu.ColiseumProblem.Contracts.deps.json
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\bin\Debug\net7.0\Nsu.ColiseumProblem.Contracts.dll
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\bin\Debug\net7.0\Nsu.ColiseumProblem.Contracts.pdb
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.csproj.AssemblyReference.cache
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.AssemblyInfoInputs.cache
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.AssemblyInfo.cs
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.dll
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\refint\Nsu.ColiseumProblem.Contracts.dll
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\Nsu.ColiseumProblem.Contracts.pdb
+C:\Users\Vlad\RiderProjects\Test\Nsu.ColiseumProblem.Contracts\obj\Debug\net7.0\ref\Nsu.ColiseumProblem.Contracts.dll

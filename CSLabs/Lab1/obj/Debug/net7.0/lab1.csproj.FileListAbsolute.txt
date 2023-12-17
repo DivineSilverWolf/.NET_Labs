@@ -1,0 +1,15 @@
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\bin\Debug\net7.0\lab1.deps.json
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\bin\Debug\net7.0\lab1.dll
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\bin\Debug\net7.0\lab1.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.csproj.AssemblyReference.cache
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.dll
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\refint\lab1.dll
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\lab1.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\lab1\obj\Debug\net7.0\ref\lab1.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Lab1\bin\Debug\net7.0\Lab4.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Lab1\bin\Debug\net7.0\Lab4.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\Lab1\obj\Debug\net7.0\Lab1.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Contracts.deps.json
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Contracts.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Lab1.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Lab4.dll
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Lab1.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\bin\Debug\net7.0\Lab4.pdb
+C:\Users\Vlad\RiderProjects\CSLabs\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
